@@ -1,4 +1,4 @@
-# Stock_Analysis
+# Stock Analysis
 This project involves market prediction using historical stock data and LSTM models, which aligns with the "Market Prediction" project idea mentioned in the list.
 ## Curriculum Topics:
 OOP (Object-Oriented Programming): The project has been refactored to use a class StockAnalysis to encapsulate all functionalities related to stock market analysis.
